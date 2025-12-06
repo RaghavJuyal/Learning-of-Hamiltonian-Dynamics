@@ -1,10 +1,11 @@
 Repository for the the learning of Hamiltonian Dynamics. This is for the Master Thesis of the QIST program jointly offered by TU Delft and Leiden University.
 
-This currently contains slides for the discussions and code for the GUI. 
+This currently contains code for the GUI to generate code, code for showing that the alogrithm outputs a kernel that matches the one computed analytically, code for seeing the performance on train and test data after kernel ridge regression and slides explaining the code.
 
 The main paper being followed is: [https://arxiv.org/pdf/2506.17089](https://arxiv.org/pdf/2506.17089).
 
 Other references used till now are:
+
 1. [https://arxiv.org/pdf/2106.03880](https://arxiv.org/pdf/2106.03880)
 2. [https://arxiv.org/pdf/1903.02840](https://arxiv.org/pdf/1903.02840)
 3. [https://arxiv.org/pdf/2111.05292](https://arxiv.org/pdf/2111.05292)
