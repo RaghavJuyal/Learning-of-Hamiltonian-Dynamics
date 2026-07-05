@@ -20,3 +20,17 @@ checkpoints_2q3sZ0Y1extrapolate/
 checkpoints_2q3sZ0Y1extrapolatem2pi2pi/
 checkpoints_2q3sZ0Y1extrapolate4pi/
 checkpoints_2q3sZ0Y1extrapolate2pi/
+checkpoints_2q4ssparse/
+checkpoints_2q4sdense/
+checkpoints_2q4ssparsealpha10/
+checkpoints_2q4sdensealpha10/
+checkpoints_2q4sdensealpha104qubit/
+checkpoints_4qubithard/
+checkpoints_3q3ssparsegemini/
+checkpoints_densegemini2qubit/
+checkpoints_densegemini3qubit/
+checkpoints_3qubitxZaX/
+checkpoints_2qubitxZaX/
+checkpoints_1qubitxZaX/
+checkpoints_3qubitxZaX_singleZ/
+checkpoints_2qubitxZaX_singleZ/
